@@ -1,4 +1,4 @@
-# visualizacion_ironhack_19_01_2023
+# Seminario visualizacion Ironhack 19/1/2023
 
 En este seminario, veremos las herramientas más populares de la visualización de datos en Python. Empezaremos por conocer las bases generales para generar gráficos y trabajaremos con los módulos más usados, como Matplotlib, Seaborn y Plotly. Trataremos ejemplos de uso común y sencillo en estos paquetes con explicaciones teóricas apoyadas en ejercicios introductorios.
 
